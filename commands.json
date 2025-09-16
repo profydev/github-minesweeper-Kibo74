@@ -22,6 +22,7 @@
   "flag A2",
   "clear A1",
   "clear H2",
-  "flag H1"
+  "flag H1",
+  "end"
   ]
 }
